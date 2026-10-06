@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.py[cod]
+/results*.json
+/test-results/
+.DS_Store
+
+# Verification outputs and private working material
+/reference/
+/results/
+*.log
+*.pdf
+*.tex
+*.aux
+*.out
+*.toc
+*.zip
+*.tar.gz
+*.bundle

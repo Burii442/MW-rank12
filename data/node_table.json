@@ -1,0 +1,390 @@
+{
+  "schema_version": 1,
+  "description": "Table 1 of the accompanying manuscript. Each scalar is real + I*imag, with rational coefficients. The four section labels correspond to t = tau, I*tau, -tau, -I*tau, in this order.",
+  "rows": [
+    {
+      "v": {
+        "real": "-3",
+        "imag": "0"
+      },
+      "tau": {
+        "real": "-2",
+        "imag": "-2"
+      },
+      "sections": [
+        "P1",
+        "P1",
+        "P2",
+        "P2"
+      ]
+    },
+    {
+      "v": {
+        "real": "-2",
+        "imag": "0"
+      },
+      "tau": {
+        "real": "-1",
+        "imag": "0"
+      },
+      "sections": [
+        "P'6",
+        "P'6",
+        "P'6",
+        "P'6"
+      ]
+    },
+    {
+      "v": {
+        "real": "-4/5",
+        "imag": "-3/5"
+      },
+      "tau": {
+        "real": "-26/125",
+        "imag": "18/125"
+      },
+      "sections": [
+        "P2",
+        "P2",
+        "P1",
+        "P1"
+      ]
+    },
+    {
+      "v": {
+        "real": "-4/5",
+        "imag": "3/5"
+      },
+      "tau": {
+        "real": "-26/125",
+        "imag": "-18/125"
+      },
+      "sections": [
+        "P1",
+        "P2",
+        "P2",
+        "P1"
+      ]
+    },
+    {
+      "v": {
+        "real": "-3/5",
+        "imag": "-4/5"
+      },
+      "tau": {
+        "real": "-26/125",
+        "imag": "-18/125"
+      },
+      "sections": [
+        "P'2",
+        "P1",
+        "P'1",
+        "P1"
+      ]
+    },
+    {
+      "v": {
+        "real": "-3/5",
+        "imag": "4/5"
+      },
+      "tau": {
+        "real": "-26/125",
+        "imag": "18/125"
+      },
+      "sections": [
+        "P'2",
+        "P'1",
+        "P'1",
+        "P'2"
+      ]
+    },
+    {
+      "v": {
+        "real": "-1/2",
+        "imag": "0"
+      },
+      "tau": {
+        "real": "-1/8",
+        "imag": "0"
+      },
+      "sections": [
+        "P'1",
+        "P1",
+        "P'1",
+        "P1"
+      ]
+    },
+    {
+      "v": {
+        "real": "-1/3",
+        "imag": "0"
+      },
+      "tau": {
+        "real": "-2/27",
+        "imag": "-2/27"
+      },
+      "sections": [
+        "P1",
+        "P2",
+        "P2",
+        "P1"
+      ]
+    },
+    {
+      "v": {
+        "real": "0",
+        "imag": "-3"
+      },
+      "tau": {
+        "real": "-2",
+        "imag": "-2"
+      },
+      "sections": [
+        "P1",
+        "P'2",
+        "P1",
+        "P'1"
+      ]
+    },
+    {
+      "v": {
+        "real": "0",
+        "imag": "-2"
+      },
+      "tau": {
+        "real": "-1",
+        "imag": "0"
+      },
+      "sections": [
+        "P6",
+        "P6",
+        "P6",
+        "P6"
+      ]
+    },
+    {
+      "v": {
+        "real": "0",
+        "imag": "-1/2"
+      },
+      "tau": {
+        "real": "-1/8",
+        "imag": "0"
+      },
+      "sections": [
+        "P1",
+        "P1",
+        "P1",
+        "P1"
+      ]
+    },
+    {
+      "v": {
+        "real": "0",
+        "imag": "-1/3"
+      },
+      "tau": {
+        "real": "-2/27",
+        "imag": "-2/27"
+      },
+      "sections": [
+        "P'1",
+        "P'2",
+        "P'2",
+        "P'1"
+      ]
+    },
+    {
+      "v": {
+        "real": "0",
+        "imag": "1/3"
+      },
+      "tau": {
+        "real": "-2/27",
+        "imag": "-2/27"
+      },
+      "sections": [
+        "P1",
+        "P'2",
+        "P1",
+        "P'1"
+      ]
+    },
+    {
+      "v": {
+        "real": "0",
+        "imag": "1/2"
+      },
+      "tau": {
+        "real": "-1/8",
+        "imag": "0"
+      },
+      "sections": [
+        "P6",
+        "P6",
+        "P6",
+        "P6"
+      ]
+    },
+    {
+      "v": {
+        "real": "0",
+        "imag": "2"
+      },
+      "tau": {
+        "real": "-1",
+        "imag": "0"
+      },
+      "sections": [
+        "P6",
+        "P6",
+        "P6",
+        "P6"
+      ]
+    },
+    {
+      "v": {
+        "real": "0",
+        "imag": "3"
+      },
+      "tau": {
+        "real": "-2",
+        "imag": "-2"
+      },
+      "sections": [
+        "P'1",
+        "P'2",
+        "P'2",
+        "P'1"
+      ]
+    },
+    {
+      "v": {
+        "real": "1/3",
+        "imag": "0"
+      },
+      "tau": {
+        "real": "-2/27",
+        "imag": "-2/27"
+      },
+      "sections": [
+        "P1",
+        "P1",
+        "P2",
+        "P2"
+      ]
+    },
+    {
+      "v": {
+        "real": "1/2",
+        "imag": "0"
+      },
+      "tau": {
+        "real": "-1/8",
+        "imag": "0"
+      },
+      "sections": [
+        "P1",
+        "P'6",
+        "P1",
+        "P'6"
+      ]
+    },
+    {
+      "v": {
+        "real": "3/5",
+        "imag": "-4/5"
+      },
+      "tau": {
+        "real": "-26/125",
+        "imag": "18/125"
+      },
+      "sections": [
+        "P1",
+        "P'1",
+        "P1",
+        "P'2"
+      ]
+    },
+    {
+      "v": {
+        "real": "3/5",
+        "imag": "4/5"
+      },
+      "tau": {
+        "real": "-26/125",
+        "imag": "-18/125"
+      },
+      "sections": [
+        "P'2",
+        "P'2",
+        "P'1",
+        "P'1"
+      ]
+    },
+    {
+      "v": {
+        "real": "4/5",
+        "imag": "-3/5"
+      },
+      "tau": {
+        "real": "-26/125",
+        "imag": "-18/125"
+      },
+      "sections": [
+        "P2",
+        "P2",
+        "P1",
+        "P1"
+      ]
+    },
+    {
+      "v": {
+        "real": "4/5",
+        "imag": "3/5"
+      },
+      "tau": {
+        "real": "-26/125",
+        "imag": "18/125"
+      },
+      "sections": [
+        "P2",
+        "P1",
+        "P1",
+        "P2"
+      ]
+    },
+    {
+      "v": {
+        "real": "2",
+        "imag": "0"
+      },
+      "tau": {
+        "real": "-1",
+        "imag": "0"
+      },
+      "sections": [
+        "P'6",
+        "P'6",
+        "P'6",
+        "P'6"
+      ]
+    },
+    {
+      "v": {
+        "real": "3",
+        "imag": "0"
+      },
+      "tau": {
+        "real": "-2",
+        "imag": "-2"
+      },
+      "sections": [
+        "P1",
+        "P2",
+        "P2",
+        "P1"
+      ]
+    }
+  ]
+}
